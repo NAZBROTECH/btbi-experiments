@@ -16,4 +16,10 @@
   Link: https://www.reuters.com/business/healthcare-pharmaceuticals/elon-musks-neuralink-plans-brain-implant-trial-speech-impairments-2025-09-19  
   Summary: Neuralink will begin a clinical trial in Oct 2025 aimed at decoding imagined speech into text for patients with paralysis. Received FDA Breakthrough Device designation. Connects to B2BI research as a practical step toward thought-to-text communication.
 
-- **2024 – Vakilipour et al.**: Brain-to-brain interface technology (Review, Int J Dev Neurosci). [PubMed 38711277](https://pubmed.ncbi.nlm.nih.gov/38711277/) – Explains history, current applications (rehab, locked-in, cross-species), and key ethical challenges.
+- **2024 ï¿½ Vakilipour et al.**: Brain-to-brain interface technology (Review, Int J Dev Neurosci). [PubMed 38711277](https://pubmed.ncbi.nlm.nih.gov/38711277/) ï¿½ Explains history, current applications (rehab, locked-in, cross-species), and key ethical challenges.
+# Resources
+
+## Research Articles
+- MDPI Sensors (2023)  *"Recent Advances in Noninvasive BrainComputer Interfaces: Applications and Future Directions"*  
+  Link: https://www.mdpi.com/1424-8220/23/20/8674
+go check out now 
