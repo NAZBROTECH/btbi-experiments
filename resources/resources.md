@@ -23,3 +23,9 @@
 - MDPI Sensors (2023)  *"Recent Advances in Noninvasive BrainComputer Interfaces: Applications and Future Directions"*  
   Link: https://www.mdpi.com/1424-8220/23/20/8674
 go check out now 
+
+##  Resources Added on 2025-09-30  
+
+- **EEG Overview**  [Electroencephalography (EEG): An Introductory Overview  NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974210/)  
+- **Form Factors (Invasive vs Non-invasive)**  [Frontiers in Systems Neuroscience](https://www.frontiersin.org/articles/10.3389/fnsys.2014.00009/full)  
+- **BCIs for Communication**  [Noninvasive BrainComputer Interfaces for Communication and Control  Trends in Neurosciences](https://www.sciencedirect.com/science/article/pii/S0166223620301133)  
