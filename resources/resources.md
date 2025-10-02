@@ -34,3 +34,8 @@ go check out now
 - **EEG Overview** – [Electroencephalography (EEG): An Introductory Overview – NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974210/)  
 - **Stimulation Methods** – [Transcranial Magnetic and Electrical Stimulation in the Human Brain – Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2017.00450/full)  
 - **Neuralink Clinical Trials** – [Neuralink Patient Registry – Official Site](https://neuralink.com/patient-registry/)  
+## 📅 Resources Added on 2025-10-02  
+
+- **Signal Quality & Noise** – [Artifact Removal in EEG: A Review – NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8089998/)  
+- **Stimulation Safety** – [Safety of Noninvasive Brain Stimulation – Frontiers](https://www.frontiersin.org/articles/10.3389/fneur.2017.00056/full)  
+- **Industry Update** – [Precision Neuroscience Clinical Testing – Official Site](https://precisionneuro.io/)  
