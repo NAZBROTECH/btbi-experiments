@@ -39,3 +39,8 @@ go check out now
 - **Signal Quality & Noise** – [Artifact Removal in EEG: A Review – NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8089998/)  
 - **Stimulation Safety** – [Safety of Noninvasive Brain Stimulation – Frontiers](https://www.frontiersin.org/articles/10.3389/fneur.2017.00056/full)  
 - **Industry Update** – [Precision Neuroscience Clinical Testing – Official Site](https://precisionneuro.io/)  
+## 📅 Resources Added on 2025-10-03  
+
+- **Hybrid BCIs** – [Hybrid Brain-Computer Interfaces: Methods and Future – Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2019.00112/full)  
+- **Personalized Stimulation** – [Personalized Brain Stimulation – Nature](https://www.nature.com/articles/s41562-020-0868-9)  
+- **Neuralink Update** – [Neuralink Clinical Trial Updates – Official](https://neuralink.com/patient-registry/)  
