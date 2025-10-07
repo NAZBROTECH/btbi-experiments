@@ -49,3 +49,7 @@ go check out now
 - **Adaptive BCIs** – [Frontiers in Neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2020.00589/full)  
 - **Closed-Loop Neuromodulation** – [Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-020-0315-3)  
 - **Synchron Interface Update** – [Official Site](https://synchron.com/news/)  
+## 📅 Resources Added on 2025-10-07
+- LiveScience: New brain implant can decode inner monologue — https://www.livescience.com/health/neuroscience/new-brain-implant-can-decode-a-persons-inner-monologue
+- Georgia Tech Neuro: New wearable BCI — https://neuro.gatech.edu/new-wearable-brain-computer-interface
+- Neuralink: Announcing Patient Registry — https://neuralink.com/updates/announcing-neuralink-s-patient-registry/
