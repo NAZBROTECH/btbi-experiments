@@ -53,3 +53,7 @@ go check out now
 - LiveScience: New brain implant can decode inner monologue — https://www.livescience.com/health/neuroscience/new-brain-implant-can-decode-a-persons-inner-monologue
 - Georgia Tech Neuro: New wearable BCI — https://neuro.gatech.edu/new-wearable-brain-computer-interface
 - Neuralink: Announcing Patient Registry — https://neuralink.com/updates/announcing-neuralink-s-patient-registry/
+## 📅 Resources Added on 2025-10-09
+- IEEE Spectrum: Wearable BCI Headsets — https://spectrum.ieee.org/wearable-bci-headsets
+- Frontiers: Safety of Transcranial Electrical Stimulation — https://www.frontiersin.org/articles/10.3389/fnhum.2020.00031/full
+- Neuralink: Announcing Patient Registry — https://neuralink.com/updates/announcing-neuralink-s-patient-registry/
