@@ -57,3 +57,9 @@ go check out now
 - IEEE Spectrum: Wearable BCI Headsets — https://spectrum.ieee.org/wearable-bci-headsets
 - Frontiers: Safety of Transcranial Electrical Stimulation — https://www.frontiersin.org/articles/10.3389/fnhum.2020.00031/full
 - Neuralink: Announcing Patient Registry — https://neuralink.com/updates/announcing-neuralink-s-patient-registry/
+## 📅 Resources Added on 2025-10-10
+- IEEE Spectrum: A New BCI Instantly Synthesizes Speech — https://spectrum.ieee.org/bci-speech-synthesis?utm_source=chatgpt.com
+- Yale News: Study offers measures for safeguarding brain implants — https://news.yale.edu/2025/07/23/study-offers-measures-safeguarding-brain-implants?utm_source=chatgpt.com
+- Nature: Brain-reading devices raise ethical dilemmas — https://www.nature.com/articles/d41586-025-01679-8?utm_source=chatgpt.com
+- Georgia Tech Research: New Wearable Brain-Computer Interface — https://research.gatech.edu/new-wearable-brain-computer-interface?utm_source=chatgpt.com
+- UC Davis Health: First-of-its-kind technology helps man with ALS speak in real time — https://health.ucdavis.edu/news/headlines/first-of-its-kind-technology-helps-man-with-als-speak-in-real-time/2025/06?utm_source=chatgpt.com
