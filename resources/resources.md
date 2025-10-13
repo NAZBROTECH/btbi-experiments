@@ -63,3 +63,8 @@ go check out now
 - Nature: Brain-reading devices raise ethical dilemmas — https://www.nature.com/articles/d41586-025-01679-8?utm_source=chatgpt.com
 - Georgia Tech Research: New Wearable Brain-Computer Interface — https://research.gatech.edu/new-wearable-brain-computer-interface?utm_source=chatgpt.com
 - UC Davis Health: First-of-its-kind technology helps man with ALS speak in real time — https://health.ucdavis.edu/news/headlines/first-of-its-kind-technology-helps-man-with-als-speak-in-real-time/2025/06?utm_source=chatgpt.com
+## 📅 Resources Added on 2025-10-13
+- UCLA News: AI co-pilot boosts noninvasive BCI by interpreting user intent — https://newsroom.ucla.edu/releases/ai-brain-computer-interface-interprets-user-intent-ucla
+- MedicalXpress: Microscale BCI between hair follicles — https://medicalxpress.com/news/2025-04-microscale-braincomputer-interface-small-hair.html
+- Georgia Tech: New wearable BCI — https://research.gatech.edu/new-wearable-brain-computer-interface
+- NIH: BCI restores speech after paralysis — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis
