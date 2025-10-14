@@ -68,3 +68,7 @@ go check out now
 - MedicalXpress: Microscale BCI between hair follicles — https://medicalxpress.com/news/2025-04-microscale-braincomputer-interface-small-hair.html
 - Georgia Tech: New wearable BCI — https://research.gatech.edu/new-wearable-brain-computer-interface
 - NIH: BCI restores speech after paralysis — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis
+## 📅 Resources Added on 2025-10-14
+- IEEE Spectrum – A New BCI Instantly Synthesizes Speech: https://spectrum.ieee.org/bci-speech-synthesis?utm_source=chatgpt.com
+- IEEE Spectrum – Meta’s New Bracelet Reads Hand Gestures: https://spectrum.ieee.org/meta-wristband-interface?utm_source=chatgpt.com
+- Fast Company – Neurotechnology and Workplace Ethics: https://www.fastcompany.com/91256406/neurotechnology-revolutionize-work-ethical-risks-workers?utm_source=chatgpt.com
