@@ -76,3 +76,8 @@ go check out now
 - IEEE Spectrum: A New BCI Instantly Synthesizes Speech — https://spectrum.ieee.org/bci-speech-synthesis?utm_source=chatgpt.com  
 - Fast Company: Neurotechnology & Work Ethics — https://www.fastcompany.com/91256406/neurotechnology-revolutionize-work-ethical-risks-workers  
 - Fast Company: Colorado’s Brain Privacy Law — https://www.fastcompany.com/91111466/colorado-brain-waves-law-explained  
+## 📅 Resources Added on 2025-10-16
+- UC Davis / NIH: Brain-computer interface restores natural speech — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis  
+- University of Michigan wireless BCI first reception — https://www.michiganmedicine.org/news-release/university-michigan-team-leads-first-human-recording-new-wireless-brain-computer-interface  
+- Georgia Tech wearable microstructure BCI — https://research.gatech.edu/new-wearable-brain-computer-interface  
+- MedTechDive: Senators push for BCI privacy protections — https://www.medtechdive.com/news/senators-bci-brain-computer-privacy-ftc/746733
