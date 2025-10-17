@@ -81,3 +81,7 @@ go check out now
 - University of Michigan wireless BCI first reception — https://www.michiganmedicine.org/news-release/university-michigan-team-leads-first-human-recording-new-wireless-brain-computer-interface  
 - Georgia Tech wearable microstructure BCI — https://research.gatech.edu/new-wearable-brain-computer-interface  
 - MedTechDive: Senators push for BCI privacy protections — https://www.medtechdive.com/news/senators-bci-brain-computer-privacy-ftc/746733
+## 📅 Resources Added on 2025-10-17
+- UC Berkeley Engineering: Brain-to-voice neuroprosthesis restores naturalistic speech — https://engineering.berkeley.edu/news/2025/03/brain-to-voice-neuroprosthesis-restores-naturalistic-speech/
+- NIH: Brain-computer interface restores natural speech after paralysis — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis
+- The Verge: Neurotech companies are selling your brain data, senators warn — https://www.theverge.com/policy/657202/ftc-letter-senators-neurotech-companies-brain-computer-interface
