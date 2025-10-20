@@ -85,3 +85,7 @@ go check out now
 - UC Berkeley Engineering: Brain-to-voice neuroprosthesis restores naturalistic speech — https://engineering.berkeley.edu/news/2025/03/brain-to-voice-neuroprosthesis-restores-naturalistic-speech/
 - NIH: Brain-computer interface restores natural speech after paralysis — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis
 - The Verge: Neurotech companies are selling your brain data, senators warn — https://www.theverge.com/policy/657202/ftc-letter-senators-neurotech-companies-brain-computer-interface
+## 📅 Resources Added on 2025-10-20
+- Washington University Medicine: Stroke-recovery device using BCI — https://medicine.washu.edu/news/stroke-recovery-device-using-brain-computer-interface-receives-fda-market-authorization/
+- Engadget: Neurable brain-wave tracking headphones — https://www.engadget.com/neurables-brainwave-tracking-master--dynamic-headphones-tell-you-when-to-take-a-break-120004736.html
+- SciTechDaily: Brainwaves hacked using consumer EEG headsets — https://scitechdaily.com/brainwaves-hacked-using-consumer-grade-eeg-headsets/
