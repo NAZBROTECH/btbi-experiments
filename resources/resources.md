@@ -89,3 +89,7 @@ go check out now
 - Washington University Medicine: Stroke-recovery device using BCI — https://medicine.washu.edu/news/stroke-recovery-device-using-brain-computer-interface-receives-fda-market-authorization/
 - Engadget: Neurable brain-wave tracking headphones — https://www.engadget.com/neurables-brainwave-tracking-master--dynamic-headphones-tell-you-when-to-take-a-break-120004736.html
 - SciTechDaily: Brainwaves hacked using consumer EEG headsets — https://scitechdaily.com/brainwaves-hacked-using-consumer-grade-eeg-headsets/
+## 📅 Resources Added on 2025-10-21  
+- NIH Research Matters: Brain-computer interface restores natural speech after paralysis — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis  
+- UChicago Medicine: Making prosthetic limbs feel more real with brain-computer interfaces — https://news.uchicago.edu/story/making-prosthetic-limbs-feel-more-real-brain-computer-interfaces  
+- STAT News: Neural implant captures speech tone, pitch; restoring voice in ALS patient — https://www.statnews.com/2025/06/19/brain-computer-interface-als-communication-new-study-patient-voice-restored-after-implant/  
