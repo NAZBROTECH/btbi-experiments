@@ -93,3 +93,6 @@ go check out now
 - NIH Research Matters: Brain-computer interface restores natural speech after paralysis — https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis  
 - UChicago Medicine: Making prosthetic limbs feel more real with brain-computer interfaces — https://news.uchicago.edu/story/making-prosthetic-limbs-feel-more-real-brain-computer-interfaces  
 - STAT News: Neural implant captures speech tone, pitch; restoring voice in ALS patient — https://www.statnews.com/2025/06/19/brain-computer-interface-als-communication-new-study-patient-voice-restored-after-implant/  
+## 📅 Resources Added on 2025-10-22  
+- The Hidden Risks of Brain-Computer Interfaces — https://scisimple.com/en/articles/2025-03-23-the-hidden-risks-of-brain-computer-interfaces--a37or15  
+- UNESCO Courier: Chile: Pioneering the protection of neurorights — https://courier.unesco.org/en/articles/chile-pioneering-protection-of-neurorights  
