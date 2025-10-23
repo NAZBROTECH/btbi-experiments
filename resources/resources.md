@@ -96,3 +96,6 @@ go check out now
 ## 📅 Resources Added on 2025-10-22  
 - The Hidden Risks of Brain-Computer Interfaces — https://scisimple.com/en/articles/2025-03-23-the-hidden-risks-of-brain-computer-interfaces--a37or15  
 - UNESCO Courier: Chile: Pioneering the protection of neurorights — https://courier.unesco.org/en/articles/chile-pioneering-protection-of-neurorights  
+## 📅 Resources Added on 2025-10-23  
+- Medium: Introduction to Brain-Computer Interfaces — https://medium.com/data-science/introduction-to-brain-computer-interfaces-d05d533e3543  
+- Bitbrain Blog: What is BCI? Introduction to brain-computer interface using EEG signals — https://www.bitbrain.com/blog/brain-computer-interface-using-eeg-signals  
