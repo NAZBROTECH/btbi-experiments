@@ -99,3 +99,9 @@ go check out now
 ## 📅 Resources Added on 2025-10-23  
 - Medium: Introduction to Brain-Computer Interfaces — https://medium.com/data-science/introduction-to-brain-computer-interfaces-d05d533e3543  
 - Bitbrain Blog: What is BCI? Introduction to brain-computer interface using EEG signals — https://www.bitbrain.com/blog/brain-computer-interface-using-eeg-signals  
+## 📅 (PRIVATE) Resources Added on 2025-10-24
+- Medium: How to start a bedroom BCI project — https://medium.com/building-a-bedroom-bci/why-what-and-how-to-start-your-own-brain-computer-interface-project-5473557f051d
+- PFW News: Student BCI builds — https://www.pfw.edu/news-center/mechanical-engineering-students-using-their-heads-build-brain-computer-interfaces
+## 📅 Resources Added on 2025-10-24
+- Medium: How to start a bedroom BCI project — https://medium.com/building-a-bedroom-bci/why-what-and-how-to-start-your-own-brain-computer-interface-project-5473557f051d
+- PFW News: Student BCI builds — https://www.pfw.edu/news-center/mechanical-engineering-students-using-their-heads-build-brain-computer-interfaces
