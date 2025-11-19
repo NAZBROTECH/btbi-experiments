@@ -3,6 +3,11 @@
 # Synthetic motor-rehabilitation simulator for Synapse.
 # Educational only. NO real neural or physiological data.
 # All values are randomly generated for safe offline testing.
+from ethics_notice import show_notice
+
+if __name__ == "__main__":
+    show_notice()
+    
 
 import numpy as np
 
