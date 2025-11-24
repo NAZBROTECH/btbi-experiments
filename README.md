@@ -61,3 +61,13 @@ If you’re working on BCI or BTBI and would like to connect, please feel free t
 
 ✨ *This repo is both a learning diary and an open call for collaboration on the future of direct human communication.*  
 📄 For the detailed project vision, see [PROJECT_PLAN.md](PROJECT_PLAN.md)
+## 🧩 Lessons from DIY EEG Projects  
+Real EEG hardware faces major limitations:
+- Very low signal strength  
+- High noise and electrical interference  
+- Latency jitter  
+- Unstable electrodes  
+- Amplifier saturation  
+
+Synapse does **not** capture real brain signals.  
+To reflect real-world constraints, we include simulated “failure modes” that show how signals degrade in practice.
