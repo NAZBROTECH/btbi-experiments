@@ -57,5 +57,49 @@ def run_simulation():
     plt.show()
 
 
+import random
+
+def apply_synaptic_variability(signal, jitter_ms=2.0, amplitude_variability=0.1):
+    """
+    Applies biological-like variability:
+    - jitter_ms: ± jitter time in milliseconds simulated as noise in sequence index.
+    - amplitude_variability: ± % variability added to amplitude.
+    """
+    new_signal = []
+
+    for i, value in enumerate(signal):
+        # amplitude variation (simulate biological fluctuation)
+        amplitude_noise = value * random.uniform(-amplitude_variability, amplitude_variability)
+        new_value = value + amplitude_noise
+
+        # jitter: shifts the index slightly
+        jitter = random.uniform(-jitter_ms, jitter_ms)
+
+        new_signal.append({
+            "time_index": i + jitter,
+            "value": new_value
+        })
+
+    return new_signal
+
+
+def apply_reliability_drift(signal, drift_rate=0.0005):
+    """
+    Simulates reduced reliability over time.
+    drift_rate: amount of amplitude loss per step.
+    """
+    drifted = []
+    reliability = 1.0
+
+    for value in signal:
+        drifted.append(value * reliability)
+        reliability -= drift_rate
+        reliability = max(0, reliability)  # avoid negative reliability
+
+    return drifted
+
+
+
+
 if __name__ == "__main__":
     run_simulation()
