@@ -10,3 +10,6 @@
 | 2025       | Synapse (Nigeria)                 | First African open-source BTBI prototype      |
 
 This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
+| 1791  | Luigi Galvani – Bioelectricity (frog legs) | Proved electricity is the 'spark of life' → foundation of action potential modeling in Synapse |
+| 1952  | Hodgkin-Huxley equations      | Direct math behind our spike generator |
+| 2025  | Synapse BTBI (Nigeria)        | First open African brain-to-brain simulation |
