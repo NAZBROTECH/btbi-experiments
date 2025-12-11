@@ -13,3 +13,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1791  | Luigi Galvani – Bioelectricity (frog legs) | Proved electricity is the 'spark of life' → foundation of action potential modeling in Synapse |
 | 1952  | Hodgkin-Huxley equations      | Direct math behind our spike generator |
 | 2025  | Synapse BTBI (Nigeria)        | First open African brain-to-brain simulation |
+| 1897  | Charles Sherrington coins 'synapse'       | Defined the junction → our SynapticTransmissionPacket  |
+| 1921  | Otto Loewi proves chemical transmission   | Foundation of neurotransmitter modeling in Filter Core |
