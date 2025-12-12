@@ -15,3 +15,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 2025  | Synapse BTBI (Nigeria)        | First open African brain-to-brain simulation |
 | 1897  | Charles Sherrington coins 'synapse'       | Defined the junction → our SynapticTransmissionPacket  |
 | 1921  | Otto Loewi proves chemical transmission   | Foundation of neurotransmitter modeling in Filter Core |
+| 1915  | Walter Cannon – Fight-or-Flight response      | Direct inspiration for ANS stress modulation in Synapse |
+| 1932  | Cannon & Hess – Autonomic Nervous System     | Blueprint for automatic safeguards in distributed BTBI |
