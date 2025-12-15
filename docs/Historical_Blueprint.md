@@ -17,3 +17,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1921  | Otto Loewi proves chemical transmission   | Foundation of neurotransmitter modeling in Filter Core |
 | 1915  | Walter Cannon – Fight-or-Flight response      | Direct inspiration for ANS stress modulation in Synapse |
 | 1932  | Cannon & Hess – Autonomic Nervous System     | Blueprint for automatic safeguards in distributed BTBI |
+| 1867  | Hermann von Helmholtz – Unconscious Inference     | Foundation of predictive perception → our top-down priors |
+| 1999  | Karl Friston – Predictive Coding theory            | Modern basis for brain-as-prediction-machine in Synapse |
