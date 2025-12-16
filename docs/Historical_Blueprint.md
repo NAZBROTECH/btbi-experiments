@@ -19,3 +19,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1932  | Cannon & Hess – Autonomic Nervous System     | Blueprint for automatic safeguards in distributed BTBI |
 | 1867  | Hermann von Helmholtz – Unconscious Inference     | Foundation of predictive perception → our top-down priors |
 | 1999  | Karl Friston – Predictive Coding theory            | Modern basis for brain-as-prediction-machine in Synapse |
+| 1863  | Hermann von Helmholtz – Resonance theory of hearing   | Basis for tonotopic frequency mapping in cochlea model |
+| 1940s | Georg von Békésy – Traveling wave theory              | Modern understanding of basilar membrane → our FFT decomposition |
