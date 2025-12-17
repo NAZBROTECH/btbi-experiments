@@ -21,3 +21,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1999  | Karl Friston – Predictive Coding theory            | Modern basis for brain-as-prediction-machine in Synapse |
 | 1863  | Hermann von Helmholtz – Resonance theory of hearing   | Basis for tonotopic frequency mapping in cochlea model |
 | 1940s | Georg von Békésy – Traveling wave theory              | Modern understanding of basilar membrane → our FFT decomposition |
+| 1953  | Eugene Aserinsky & Nathaniel Kleitman – Discovery of REM sleep   | Foundation for dream/replay processing in Synapse offline cycles |
+| 1972  | Suprachiasmatic nucleus identified as master clock              | Basis for circadian-aware BTBI scheduling |
