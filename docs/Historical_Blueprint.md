@@ -23,3 +23,6 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1940s | Georg von Békésy – Traveling wave theory              | Modern understanding of basilar membrane → our FFT decomposition |
 | 1953  | Eugene Aserinsky & Nathaniel Kleitman – Discovery of REM sleep   | Foundation for dream/replay processing in Synapse offline cycles |
 | 1972  | Suprachiasmatic nucleus identified as master clock              | Basis for circadian-aware BTBI scheduling |
+| 1970s | Paul Ekman – Six basic emotions (universal facial expressions) | Basis for emotional valence labeling in Synapse |
+| 1950s-60s | Masters & Johnson – Human sexual response cycle | Inspiration for desire/arousal modeling |
+| 1990s | Antonio Damasio – Somatic marker hypothesis | Role of emotion in decision-making → reward prediction error |
