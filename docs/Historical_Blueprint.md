@@ -26,3 +26,6 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1970s | Paul Ekman – Six basic emotions (universal facial expressions) | Basis for emotional valence labeling in Synapse |
 | 1950s-60s | Masters & Johnson – Human sexual response cycle | Inspiration for desire/arousal modeling |
 | 1990s | Antonio Damasio – Somatic marker hypothesis | Role of emotion in decision-making → reward prediction error |
+| 1952  | Hodgkin & Huxley – Mathematical model of action potential     | Core physics engine for Synapse spike accuracy |
+| 1963  | Hodgkin-Huxley Nobel Prize                                    | Recognition of ion-channel biophysics |
+| 1960s | Wilfrid Rall – Cable theory for dendritic integration          | Foundation for multi-neuron propagation modeling |
