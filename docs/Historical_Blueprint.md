@@ -29,3 +29,6 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1952  | Hodgkin & Huxley – Mathematical model of action potential     | Core physics engine for Synapse spike accuracy |
 | 1963  | Hodgkin-Huxley Nobel Prize                                    | Recognition of ion-channel biophysics |
 | 1960s | Wilfrid Rall – Cable theory for dendritic integration          | Foundation for multi-neuron propagation modeling |
+| 1987  | Discovery of NMDA receptor role in LTP                        | Key to plasticity modeling in Synapse |
+| 1990s | Development of subtype-specific glutamate modulators          | Inspiration for targeted therapeutic packets |
+| 2010s | Recognition of tripartite synapse (neuron-astrocyte)          | Basis for astrocytic influence in Filter Core |
