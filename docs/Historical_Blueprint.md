@@ -32,3 +32,7 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1987  | Discovery of NMDA receptor role in LTP                        | Key to plasticity modeling in Synapse |
 | 1990s | Development of subtype-specific glutamate modulators          | Inspiration for targeted therapeutic packets |
 | 2010s | Recognition of tripartite synapse (neuron-astrocyte)          | Basis for astrocytic influence in Filter Core |
+| 2016  | Neuralink founded by Elon Musk                                | Start of high-bandwidth BCI race |
+| 2019  | Flexible threads & surgical robot revealed                     | Key innovation for scalability |
+| 2024  | First human implant (N1)                                       | Proof of concept in paralysis |
+| 2025  | Multiple patients, cursor/robotic control, international trials| Current benchmark for Synapse simulations |
