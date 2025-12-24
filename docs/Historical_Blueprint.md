@@ -36,3 +36,6 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 2019  | Flexible threads & surgical robot revealed                     | Key innovation for scalability |
 | 2024  | First human implant (N1)                                       | Proof of concept in paralysis |
 | 2025  | Multiple patients, cursor/robotic control, international trials| Current benchmark for Synapse simulations |
+| 2016  | CommNet – Continuous communication in MARL                    | First learned message passing |
+| 2016  | DIAL – Differentiable Inter-Agent Learning                    | Gradient-based comm learning |
+| 2018  | TarMAC – Targeted Multi-Agent Communication (attention)       | Selective agent focus inspiration |
