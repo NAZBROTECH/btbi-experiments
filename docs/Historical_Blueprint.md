@@ -41,3 +41,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 2018  | TarMAC – Targeted Multi-Agent Communication (attention)       | Selective agent focus inspiration |
 | 2018  | Arc protein discovered as viral-derived capsid                  | Direct inspiration for thought packaging in Synapse |
 | 2000s | HERVs/ERVs shown to contribute ~8% human genome & brain genes   | Viral co-evolution basis for intelligence models |
+| 2020s | Home neurofeedback devices (e.g., Mente Autism headband)      | Inspiration for parent-doctor connected therapy in Synapse |
+| 2010s | Rise of consumer EEG for neurodevelopmental support           | Foundation for inclusive BTBI applications |
