@@ -43,3 +43,6 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 2000s | HERVs/ERVs shown to contribute ~8% human genome & brain genes   | Viral co-evolution basis for intelligence models |
 | 2020s | Home neurofeedback devices (e.g., Mente Autism headband)      | Inspiration for parent-doctor connected therapy in Synapse |
 | 2010s | Rise of consumer EEG for neurodevelopmental support           | Foundation for inclusive BTBI applications |
+| 1990s | Pentti Kanerva – Hyperdimensional Computing (sparse distributed memory) | Foundation for robust HDC concept representation |
+| 2010s | Rise of neuro-symbolic AI (neural + logic hybrids)                     | Path to interpretable ethical BTBI |
+| 2020s | Oscillation & homeostatic models in bio-AI                             | Inspiration for stable rhythmic Synapse comms |
