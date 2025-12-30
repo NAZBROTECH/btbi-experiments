@@ -46,3 +46,5 @@ This blueprint keeps us grounded in 2,000+ years of proven neuroscience.
 | 1990s | Pentti Kanerva – Hyperdimensional Computing (sparse distributed memory) | Foundation for robust HDC concept representation |
 | 2010s | Rise of neuro-symbolic AI (neural + logic hybrids)                     | Path to interpretable ethical BTBI |
 | 2020s | Oscillation & homeostatic models in bio-AI                             | Inspiration for stable rhythmic Synapse comms |
+| 2020s | Edgecortix Dynamic Neural Accelerator (DNA) IP                | Reconfigurable low-latency inference for edge AI |
+| 2023+ | MERA compiler & SAKURA devices (up to 60 TOPS)                 | Framework-agnostic deployment inspiration for Synapse |
